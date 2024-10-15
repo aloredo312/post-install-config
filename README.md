@@ -48,3 +48,47 @@ We can do the same with Departments. In the same admin panel if we go to the age
 To configure teams in the same admin panel we can go to agents and then click on "teams". A list of teams will pop up, and to add a new team click on "add new team". Fill out the information for the new team and you can add agents to the team by clicking on the members tab. Once finished click on "create team" and it will be created.
 </p>
 <br />
+
+<p>
+<img width="665" alt="user_settings" src="https://github.com/user-attachments/assets/9a4af421-a639-41da-ab20-eb59da45191f">
+</p>
+<p>
+To allow anyone to create tickets we go on the admin panel, then click on the "settings" tab, go to users. Under settings you will see General settings and Authentication settings that you can change.
+</p>
+<br />
+
+<p>
+<img width="668" alt="adding_new_agent_account_info" src="https://github.com/user-attachments/assets/beb94a02-631c-4d35-bbc7-37be33e2eb1f">
+<img width="664" alt="new_agent_access_settings" src="https://github.com/user-attachments/assets/916a25a2-c6cf-421b-b745-a51ca919c0b1">
+<img width="665" alt="new_agent_permissions" src="https://github.com/user-attachments/assets/d2fc5e94-cd3f-4c2f-8f5c-beae43a349b8">
+<img width="666" alt="new_agent_assign_teams" src="https://github.com/user-attachments/assets/85a780e2-6ade-4b2c-ab88-3c1687af06ff">
+</p>
+<p>
+To add and configure agents we need to be in the admin panel, and go to agents and then we will click on "add new". Fill out the info on the account tab for the new agent. Their name, email address, their username and their password. On the access tab you can select the department they're allowed to acces and their role. In the permissions tab you can select what abilities they are able to do, create/delete new user or manage user information and more. In the teams tab you can assign agents to a team. Once finished click on create and they will be in the agents list.
+</p>
+<br />
+
+<p>
+<img width="667" alt="switching_agent_panel" src="https://github.com/user-attachments/assets/08777d35-6146-4aa4-9912-f9b3c898bc72">
+<img width="456" alt="create_a_user" src="https://github.com/user-attachments/assets/c6390d67-26bc-47d7-ad85-04d92e2493b7">
+</p>
+<p>
+To add users we need to switch over to the agent panel. To do this go to the upper right where it says agent panel and click it. Then to add new user go to the "users" tab click it, and then click on "add new". An email and a full name will be required to create a user. Click on create user and you will see the user show up on the list.
+</p>
+<br />
+
+<p>
+<img width="665" alt="configuring_sla" src="https://github.com/user-attachments/assets/6c1cf913-61c4-42ed-b972-1c3516732e6f">
+</p>
+<p>
+To configure SLA  we need to go back to the admin panel. Then we will go to the "manage" tab, then click on SLA. You can name the plan (Sev-A, Sev-B, Sev-C). Check the circle wether it should be active or disabled, Fill the grace period in hours and select the schedule from the options in the drop down menu. Once finished with the settings click add plan.
+</p>
+<br />
+
+<p>
+<img width="665" alt="user_settings" src="https://github.com/user-attachments/assets/9a4af421-a639-41da-ab20-eb59da45191f">
+</p>
+<p>
+To allow anyone to create tickets we go on the admin panel, then click on the "settings" tab, go to users. Under settings you will see General settings and Authentication settings that you can change
+</p>
+<br />
