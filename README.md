@@ -86,9 +86,9 @@ To configure SLA  we need to go back to the admin panel. Then we will go to the 
 <br />
 
 <p>
-<img width="665" alt="user_settings" src="https://github.com/user-attachments/assets/9a4af421-a639-41da-ab20-eb59da45191f">
+<img width="664" alt="configure_help_topics" src="https://github.com/user-attachments/assets/61a048fa-bd91-4bcf-be92-e9c368792c9a">
 </p>
 <p>
-To allow anyone to create tickets we go on the admin panel, then click on the "settings" tab, go to users. Under settings you will see General settings and Authentication settings that you can change
+To configure Help Topics, you need to go to be on the admin panel, click on the manage tab, and then click on help topics. To add new help topics click on the "add new help topics". Then you will fill out the Help topic information, Name the topic, choose the status, the type, and the parent topic. Once everything is filled out click on the "add topic" button.
 </p>
 <br />
