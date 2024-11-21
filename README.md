@@ -36,7 +36,8 @@ To configure roles you have to be on the admin panel, to go to the admin panel g
 <br />
 
 <p>
-<img width="675" alt="add_new_dept" src="https://github.com/user-attachments/assets/8ef317ac-5730-40ea-b914-67a90ece4d5f"> <img width="665" alt="dept_settings" src="https://github.com/user-attachments/assets/b7a2f139-6134-4664-b274-ec1bfb394711">
+<img width="667" alt="add_new_dept" src="https://github.com/user-attachments/assets/6cefd840-e09c-4614-ae25-921ae6b16f47">
+<img width="665" alt="dept_settings" src="https://github.com/user-attachments/assets/b7a2f139-6134-4664-b274-ec1bfb394711">
 </p>
 <p>
 We can do the same with Departments. In the same admin panel if we go to the agents tab and then click on "departments", we can see a list of departments. To add a new department click on "add new department". It will ask for a bunch of settings to fill out for the department you are creating for example Department info, outgoing email and autoresponder settings, and if you click on the access tab you can add agents who will be a part of that department. Once finished filling everything out just click on "create dept".
